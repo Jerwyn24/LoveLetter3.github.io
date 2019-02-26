@@ -1,0 +1,29 @@
+h1 {
+    color: #5A0001;
+}
+
+h2{color: #FFFFFF;}
+
+p {
+    font size: 1em;
+    color: #FFFFFF;
+}
+
+/*******Education styling***/
+
+#profile-pic {
+    border-radius: 10%;
+}
+
+#left-col {
+    width: 20em;
+    height: 100vh;
+    background-color: #FF0000;
+    text-align: center;
+}
+
+#right-col {
+    width: em;
+    margin-left: 400;
+}
+
